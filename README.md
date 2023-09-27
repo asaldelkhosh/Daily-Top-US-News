@@ -1,2 +1,3 @@
-# Daily-Top-US-News
+# Daily Top US News
+
 Scraping US news website to get top daily news.
